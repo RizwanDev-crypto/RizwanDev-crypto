@@ -43,7 +43,7 @@ Currently focusing on **HTML, CSS, Bootstrap, and JavaScript**, and learning **R
 ## 📫 Connect with Me  
 - **GitHub:** [@RizwanDev-crypto](https://github.com/RizwanDev-crypto)  
 - **LinkedIn:** https://www.linkedin.com/in/rizwan-hayyat-3b7033363/  
-- **Email:** rizwanhayyat.dev@example.com  
+- **Email:** rizwanhayyat.dev@gmail.com  
 
 ---
 
